@@ -1,0 +1,7 @@
+android.databinding.DataBindingComponent
+android.databinding.layouts.DataBindingInfo
+cn.bingoogolapple.qrcode.zxingdemo.BR
+cn.bingoogolapple.qrcode.zxingdemo.BuildConfig
+cn.bingoogolapple.qrcode.zxingdemo.ScanActivity:
+    private static final int REQUEST_CODE_CHOOSE_QRCODE_FROM_GALLERY
+    52:54:private void vibrate()
